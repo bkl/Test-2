@@ -1,1 +1,2 @@
-aaa 1.6.1-SNAPSHOT
+1.5
+ok, das ist das neueste von allem ;-)
